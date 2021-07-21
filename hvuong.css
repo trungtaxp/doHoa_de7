@@ -1,0 +1,21 @@
+body {
+	/* xanh lá */
+	/*background: rgb(129,251,186);
+	background: linear-gradient(134deg, rgba(129,251,186,1) 0%, rgba(39,205,113,1) 100%);*/
+	/* xanh dương */
+	background: rgb(175,219,242);
+	background: linear-gradient(167deg, rgba(175,219,242,1) 0%, rgba(74,182,255,1) 100%);
+}
+
+canvas {
+	padding: 0;
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-radius: 20px;
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16), 0 2px 12px 0 rgba(0, 0, 0, 0.12);
+}
